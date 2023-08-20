@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\bin\Debug\net6.0\SportzClubManagement_Assn4.exe
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\bin\Debug\net6.0\SportzClubManagement_Assn4.deps.json
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\bin\Debug\net6.0\SportzClubManagement_Assn4.runtimeconfig.json
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\bin\Debug\net6.0\SportzClubManagement_Assn4.dll
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\bin\Debug\net6.0\SportzClubManagement_Assn4.pdb
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\SportzClubManagement_Assn4.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\SportzClubManagement_Assn4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\SportzClubManagement_Assn4.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\SportzClubManagement_Assn4.AssemblyInfo.cs
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\SportzClubManagement_Assn4.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\SportzClubManagement_Assn4.dll
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\refint\SportzClubManagement_Assn4.dll
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\SportzClubManagement_Assn4.pdb
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\SportzClubManagement_Assn4.genruntimeconfig.cache
+C:\Users\hp\source\repos\SportzClubManagement_Assn4\obj\Debug\net6.0\ref\SportzClubManagement_Assn4.dll

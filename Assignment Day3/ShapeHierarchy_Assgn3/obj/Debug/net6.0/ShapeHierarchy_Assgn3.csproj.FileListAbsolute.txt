@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\bin\Debug\net6.0\ShapeHierarchy_Assgn3.exe
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\bin\Debug\net6.0\ShapeHierarchy_Assgn3.deps.json
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\bin\Debug\net6.0\ShapeHierarchy_Assgn3.runtimeconfig.json
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\bin\Debug\net6.0\ShapeHierarchy_Assgn3.dll
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\bin\Debug\net6.0\ShapeHierarchy_Assgn3.pdb
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\ShapeHierarchy_Assgn3.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\ShapeHierarchy_Assgn3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\ShapeHierarchy_Assgn3.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\ShapeHierarchy_Assgn3.AssemblyInfo.cs
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\ShapeHierarchy_Assgn3.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\ShapeHierarchy_Assgn3.dll
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\refint\ShapeHierarchy_Assgn3.dll
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\ShapeHierarchy_Assgn3.pdb
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\ShapeHierarchy_Assgn3.genruntimeconfig.cache
+C:\Users\hp\source\repos\ShapeHierarchy_Assgn3\obj\Debug\net6.0\ref\ShapeHierarchy_Assgn3.dll

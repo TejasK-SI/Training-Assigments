@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Student_assgn2\bin\Debug\net6.0\Student_assgn2.exe
+C:\Users\hp\source\repos\Student_assgn2\bin\Debug\net6.0\Student_assgn2.deps.json
+C:\Users\hp\source\repos\Student_assgn2\bin\Debug\net6.0\Student_assgn2.runtimeconfig.json
+C:\Users\hp\source\repos\Student_assgn2\bin\Debug\net6.0\Student_assgn2.dll
+C:\Users\hp\source\repos\Student_assgn2\bin\Debug\net6.0\Student_assgn2.pdb
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\Student_assgn2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\Student_assgn2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\Student_assgn2.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\Student_assgn2.AssemblyInfo.cs
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\Student_assgn2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\Student_assgn2.dll
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\refint\Student_assgn2.dll
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\Student_assgn2.pdb
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\Student_assgn2.genruntimeconfig.cache
+C:\Users\hp\source\repos\Student_assgn2\obj\Debug\net6.0\ref\Student_assgn2.dll

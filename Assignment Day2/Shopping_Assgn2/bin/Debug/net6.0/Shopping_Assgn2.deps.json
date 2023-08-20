@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Shopping_Assgn2/1.0.0": {
+        "runtime": {
+          "Shopping_Assgn2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shopping_Assgn2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\Library_Assign\bin\Debug\net6.0\Library_Assign.exe
+C:\Users\hp\source\repos\Library_Assign\bin\Debug\net6.0\Library_Assign.deps.json
+C:\Users\hp\source\repos\Library_Assign\bin\Debug\net6.0\Library_Assign.runtimeconfig.json
+C:\Users\hp\source\repos\Library_Assign\bin\Debug\net6.0\Library_Assign.dll
+C:\Users\hp\source\repos\Library_Assign\bin\Debug\net6.0\Library_Assign.pdb
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\Library_Assign.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\Library_Assign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\Library_Assign.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\Library_Assign.AssemblyInfo.cs
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\Library_Assign.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\Library_Assign.dll
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\refint\Library_Assign.dll
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\Library_Assign.pdb
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\Library_Assign.genruntimeconfig.cache
+C:\Users\hp\source\repos\Library_Assign\obj\Debug\net6.0\ref\Library_Assign.dll
