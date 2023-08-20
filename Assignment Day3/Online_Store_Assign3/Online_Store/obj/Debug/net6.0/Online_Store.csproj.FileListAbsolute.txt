@@ -1,0 +1,15 @@
+D:\Training\C#\Online_Store\bin\Debug\net6.0\Online_Store.exe
+D:\Training\C#\Online_Store\bin\Debug\net6.0\Online_Store.deps.json
+D:\Training\C#\Online_Store\bin\Debug\net6.0\Online_Store.runtimeconfig.json
+D:\Training\C#\Online_Store\bin\Debug\net6.0\Online_Store.dll
+D:\Training\C#\Online_Store\bin\Debug\net6.0\Online_Store.pdb
+D:\Training\C#\Online_Store\obj\Debug\net6.0\Online_Store.csproj.AssemblyReference.cache
+D:\Training\C#\Online_Store\obj\Debug\net6.0\Online_Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\C#\Online_Store\obj\Debug\net6.0\Online_Store.AssemblyInfoInputs.cache
+D:\Training\C#\Online_Store\obj\Debug\net6.0\Online_Store.AssemblyInfo.cs
+D:\Training\C#\Online_Store\obj\Debug\net6.0\Online_Store.csproj.CoreCompileInputs.cache
+D:\Training\C#\Online_Store\obj\Debug\net6.0\Online_Store.dll
+D:\Training\C#\Online_Store\obj\Debug\net6.0\refint\Online_Store.dll
+D:\Training\C#\Online_Store\obj\Debug\net6.0\Online_Store.pdb
+D:\Training\C#\Online_Store\obj\Debug\net6.0\Online_Store.genruntimeconfig.cache
+D:\Training\C#\Online_Store\obj\Debug\net6.0\ref\Online_Store.dll
