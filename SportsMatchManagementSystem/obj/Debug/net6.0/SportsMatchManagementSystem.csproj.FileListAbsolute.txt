@@ -1,0 +1,15 @@
+D:\Training\C#\SportsMatchManagementSystem\bin\Debug\net6.0\SportsMatchManagementSystem.exe
+D:\Training\C#\SportsMatchManagementSystem\bin\Debug\net6.0\SportsMatchManagementSystem.deps.json
+D:\Training\C#\SportsMatchManagementSystem\bin\Debug\net6.0\SportsMatchManagementSystem.runtimeconfig.json
+D:\Training\C#\SportsMatchManagementSystem\bin\Debug\net6.0\SportsMatchManagementSystem.dll
+D:\Training\C#\SportsMatchManagementSystem\bin\Debug\net6.0\SportsMatchManagementSystem.pdb
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\SportsMatchManagementSystem.csproj.AssemblyReference.cache
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\SportsMatchManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\SportsMatchManagementSystem.AssemblyInfoInputs.cache
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\SportsMatchManagementSystem.AssemblyInfo.cs
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\SportsMatchManagementSystem.csproj.CoreCompileInputs.cache
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\SportsMatchManagementSystem.dll
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\refint\SportsMatchManagementSystem.dll
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\SportsMatchManagementSystem.pdb
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\SportsMatchManagementSystem.genruntimeconfig.cache
+D:\Training\C#\SportsMatchManagementSystem\obj\Debug\net6.0\ref\SportsMatchManagementSystem.dll
